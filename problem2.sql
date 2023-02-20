@@ -1,2 +1,1 @@
 TRUNCATE TABLE song;
---SONG
